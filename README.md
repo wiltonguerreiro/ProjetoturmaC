@@ -1,25 +1,28 @@
-# Vinicius
+# Vinicius Rainho
 
 ---
 
+EMAIL: Vxxxxxxx@gmail.com
 
--vinirainho23@gmail.com
+IDADE: 21
 
--21 anos
+CPF: xxxx xxx xxx xx
 
-cpf: 123.321.456.00
+RG: XX XXX XXX X
 
-RG: 00.123.345
-
-Cel: (14)-9983-4089
+CEL: (XX) X XXXX XXXX
 
 ---
 
 ##Experiencia
 
 - Aluno. Unimar 
+
 - Tecnico de Alimentos (SENAI)
+
 - Auxiiar de Produção (Dori)
+
 - Office boy (anticorpus)
+
 - Auxiliar de Produção (M.A)
 
