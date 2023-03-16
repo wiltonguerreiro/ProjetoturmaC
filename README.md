@@ -3,23 +3,29 @@
 ---
 
 
--vinirainho23@gmail.com
+-email vxxxxx@gmail.com
 
--21 anos
+- 21 anos
 
-cpf: 123.321.456.00
+cpf: xxx xxx xxx xx
 
-RG: 00.123.345
+RG: xxxxxxx xx
 
-Cel: (14)-9983-4089
+Cel: (xx) x xxxx xxxx
 
 ---
 
 ##Experiencia
 
-- Aluno. Unimar 
+- Aluno. Unimar
+-  
 - Tecnico de Alimentos (SENAI)
+- 
 - Auxiiar de Produção (Dori)
+- 
 - Office boy (anticorpus)
+- 
 - Auxiliar de Produção (M.A)
+
+---
 
